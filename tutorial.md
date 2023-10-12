@@ -624,7 +624,7 @@ Look at the game you've created!  Make sure to give it a try in the game window 
 
 When you're happy, click **Done** to complete the project and be able to share it with your friends.
 
-```block
+```blocks
 namespace SpriteKind {
     export const Decoration = SpriteKind.create()
     export const PowerUp = SpriteKind.create()
